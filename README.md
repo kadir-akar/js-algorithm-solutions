@@ -1,11 +1,12 @@
 ## Algorithm Problems and Solutions
 
-Solutions of Hackerrank, Leetcode etc challenges.
+Solutions of Exercism, Leetcode and CodeWars challenges.
 
-[CodeWars](https://www.codewars.com/)
-[LeetCode](https://leetcode.com/)
-[Exercism](https://exercism.org/)
-[HackerRank](https://www.hackerrank.com/)
+| platforms                             | solved |
+| ------------------------------------- | :----: |
+| [CodeWars](https://www.codewars.com/) |   0    |
+| [LeetCode](https://leetcode.com/)     |   1    |
+| [Exercism](https://exercism.org/)     |   1    |
 
 If you're having trouble with algorithm questions or learning some concepts, this videos might be helpful.
 
