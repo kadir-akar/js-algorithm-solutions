@@ -6,7 +6,7 @@ Solutions of Exercism, Leetcode and CodeWars challenges.
 | ------------------------------------- | :----: |
 | [CodeWars](https://www.codewars.com/) |   0    |
 | [LeetCode](https://leetcode.com/)     |   1    |
-| [Exercism](https://exercism.org/)     |   1    |
+| [Exercism](https://exercism.org/)     |   9    |
 
 If you're having trouble with algorithm questions or learning some concepts, this videos might be helpful.
 
