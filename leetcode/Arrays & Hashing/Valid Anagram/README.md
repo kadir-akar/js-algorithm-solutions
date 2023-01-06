@@ -19,3 +19,5 @@ Output: true
 Input: s = "rat", t = "car"
 Output: false
 ```
+
+[More details about challange](https://leetcode.com/problems/valid-anagram/)
