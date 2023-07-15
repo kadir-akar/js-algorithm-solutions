@@ -8,8 +8,3 @@ Solutions of Exercism, Leetcode and CodeWars challenges.
 | [LeetCode](https://leetcode.com/)     |   5    |
 | [Exercism](https://exercism.org/)     |   9    |
 
-If you're having trouble with algorithm questions or learning some concepts, this videos might be helpful.
-
-[Focusing Your Unconscious Mind: Learn Hard Concepts Intuitively (And Forever)](https://www.youtube.com/watch?v=Dm68uFy6gus)
-
-[NeetCode](https://www.youtube.com/@NeetCode)
