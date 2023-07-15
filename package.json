@@ -1,0 +1,19 @@
+{
+  "name": "js-algorithm-solutions",
+  "version": "1.0.0",
+  "description": "Solutions of Exercism, Leetcode and CodeWars challenges.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadir-akar/js-algorithm-solutions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kadir-akar/js-algorithm-solutions/issues"
+  },
+  "homepage": "https://github.com/kadir-akar/js-algorithm-solutions#readme"
+}
